@@ -1,0 +1,11 @@
+FirstCrossPlatform/FirstCrossPlatform.Android/bin/Debug/
+FirstCrossPlatform/FirstCrossPlatform.Android/obj/Debug/
+FirstCrossPlatform/FirstCrossPlatform.iOS/bin/iPhoneSimulator/Debug/
+FirstCrossPlatform/FirstCrossPlatform.iOS/obj/iPhone/Debug/
+FirstCrossPlatform/FirstCrossPlatform.iOS/obj/iPhoneSimulator/Debug/
+FirstCrossPlatform/FirstCrossPlatform.UWP/bin/ARM/Debug/
+FirstCrossPlatform/FirstCrossPlatform.UWP/bin/x64/Debug/
+FirstCrossPlatform/FirstCrossPlatform.UWP/bin/x86/Debug/
+FirstCrossPlatform/FirstCrossPlatform.UWP/obj/ARM/Debug/
+FirstCrossPlatform/FirstCrossPlatform.UWP/obj/x64/Debug/
+FirstCrossPlatform/FirstCrossPlatform.UWP/obj/x86/Debug/
